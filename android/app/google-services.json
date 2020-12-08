@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658610083722",
+    "project_id": "night-551dd",
+    "storage_bucket": "night-551dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658610083722:android:84e169482e1c5da1479a73",
+        "android_client_info": {
+          "package_name": "com.example.night"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658610083722-b8d1jaer5841mfg13kbg3klalsdohnl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAV7yqXJumysxqRYa4fIFFaBC8bDTeDUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658610083722-b8d1jaer5841mfg13kbg3klalsdohnl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
